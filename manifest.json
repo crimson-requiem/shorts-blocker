@@ -1,0 +1,11 @@
+{
+    "name": "Shorts Blocker",
+    "version": "0.1",
+    "description": "no more brainrot for you.",
+    "manifest_version": 3,
+    "author": "crimson-requiem",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Shorts Blocker"
+    }
+}
